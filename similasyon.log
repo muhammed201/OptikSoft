@@ -1,0 +1,30 @@
+Line 47: Class ShockwaveFlashObjectsCtl.ShockwaveFlash of control ShockwaveFlash1 was not a loaded control class.
+Line 79: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 53: The property name _cx in ShockwaveFlash1 is invalid.
+Line 54: The property name _cy in ShockwaveFlash1 is invalid.
+Line 55: The property name FlashVars in ShockwaveFlash1 is invalid.
+Line 56: The property name Movie in ShockwaveFlash1 is invalid.
+Line 57: The property name Src in ShockwaveFlash1 is invalid.
+Line 58: The property name WMode in ShockwaveFlash1 is invalid.
+Line 59: The property name Play in ShockwaveFlash1 is invalid.
+Line 60: The property name Loop in ShockwaveFlash1 is invalid.
+Line 61: The property name Quality in ShockwaveFlash1 is invalid.
+Line 62: The property name SAlign in ShockwaveFlash1 is invalid.
+Line 63: The property name Menu in ShockwaveFlash1 is invalid.
+Line 64: The property name Base in ShockwaveFlash1 is invalid.
+Line 65: The property name AllowScriptAccess in ShockwaveFlash1 is invalid.
+Line 66: The property name Scale in ShockwaveFlash1 is invalid.
+Line 67: The property name DeviceFont in ShockwaveFlash1 is invalid.
+Line 68: The property name EmbedMovie in ShockwaveFlash1 is invalid.
+Line 69: The property name BGColor in ShockwaveFlash1 is invalid.
+Line 70: The property name SWRemote in ShockwaveFlash1 is invalid.
+Line 71: The property name MovieData in ShockwaveFlash1 is invalid.
+Line 72: The property name SeamlessTabbing in ShockwaveFlash1 is invalid.
+Line 73: The property name Profile in ShockwaveFlash1 is invalid.
+Line 74: The property name ProfileAddress in ShockwaveFlash1 is invalid.
+Line 75: The property name ProfilePort in ShockwaveFlash1 is invalid.
+Line 76: The property name AllowNetworking in ShockwaveFlash1 is invalid.
+Line 77: The property name AllowFullScreen in ShockwaveFlash1 is invalid.
+Line 82: The property name _ExtentX in CommonDialog1 is invalid.
+Line 83: The property name _ExtentY in CommonDialog1 is invalid.
+Line 84: The property name _Version in CommonDialog1 is invalid.
